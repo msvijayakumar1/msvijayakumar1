@@ -82,6 +82,9 @@
 <a href="mailto:msvijayakumar121@gmail.com@gmail.com" target="_blank">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
+<a href="https://twitter.com/VijayakumarM578" target="_blank">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">
+</a> 
 </p>
 
 <br/>
